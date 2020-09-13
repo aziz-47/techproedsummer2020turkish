@@ -15,8 +15,9 @@ public class Exception02 {
 	}
 
 }
-  // ikinciisi try-cathc block kullanmaktir, bunu kullnairsaniz consolda teknik mesajlar yerine kendi yazdiginiz mesajalri gorurusunzu
-// bu yuzden try-cathc kullanmak tercih edilir.
+  // ikinciisi try-cathc block kullanmaktir, bunu kullnairsaniz consolda teknik mesajlar yerine 
+  //kendi yazdiginiz mesajalri gorurusunzu
+  // bu yuzden try-cathc kullanmak tercih edilir.
  class ExceptionTryCatch{
 	 public static void main(String [] args) {
 		 try {

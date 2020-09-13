@@ -16,7 +16,7 @@ public class Static01 {
 	
 	// static block class olusturuldugu zman olusturulur. 
 	
-	// tsatic block tum methodlrdan(main method dahil ) ve constructorlardan  once calistirilir.
+	// stsatic block tum methodlrdan(main method dahil ) ve constructorlardan  once calistirilir.
 	
 	// birden fazla static block varsa usteki once calisir
 	

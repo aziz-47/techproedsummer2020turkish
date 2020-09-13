@@ -12,7 +12,8 @@ public class Constructors02 {
 		Constructors01 obj1= new Constructors01();
 		
 		
-		// buyume methodu static oldgundan java object kullanarak buyume methodunu cagirmamizi istemez ve kodun altini 
+		// buyume methodu static oldgundan java object kullanarak buyume methodunu 
+		//cagirmamizi istemez ve kodun altini 
 		// sari renkle cizer.
 		obj1.buyume(33);
 		Constructors01.buyume(45);

@@ -7,7 +7,7 @@ public class Encapsulation01 {
 	private boolean soguk= true;
 
 	public static void main(String[] args) {
-		// // Encapsulation data saklama (data-hiding) yontemidir. 
+	    // Encapsulation data saklama (data-hiding) yontemidir. 
 		// Encapsulation iki stepte yapilir:
 		// 1) Data’yi(variable, method) private yapmalisiniz.
 		// 2) public olan getter() ve setter() methodlar uretmeliyim.

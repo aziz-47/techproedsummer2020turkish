@@ -30,16 +30,6 @@ public class ArrayList04 {
 		System.out.println(list);// [ A B C C]
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 

@@ -6,7 +6,7 @@ public class Arrays03 {
 
 	public static void main(String[] args) {
 		// 
-		// Iki array olusturup bu array'lerin birbirine esit olup olmadigini kontrol ediniz.
+		        // Iki array olusturup bu array'lerin birbirine esit olup olmadigini kontrol ediniz.
 				// Not: Iki arrayin esit olabilmesi
 				//      1) Elemanlar ayni olmali
 				//      2) Esit elemanlarin index'leri de esit olmali

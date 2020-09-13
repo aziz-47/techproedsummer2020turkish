@@ -9,7 +9,7 @@ public class ForEachLoop01 {
 		// For Each Loop for loop un ust versiyonudur. Diger adi "Enhanced (zenginlestirilmis) for Loop"
 		
 		
-int arr[] = {12, 21, 13, 43};
+        int arr[] = {12, 21, 13, 43};
 		
 		//for loop kullanarak elemanlari ekrana yazdir
 		for(int i=0; i<arr.length; i++) {

@@ -25,7 +25,8 @@ public abstract class Abstraction01 {
 			
 			
 
-////		}Child class, parent class'daki metodlara da ulasabilir.
+////		}
+			//Child class, parent class'daki metodlara da ulasabilir.
 ////			 Concrete class icinde ise abstract metod bulunamaz.
 ////			 Dolayýsýyla child concrete class ise abstract class'taki abstract metodu kullanamayacaktýr.
 ////			 Bu nedenle onu override ederek body'li hale getirir. Yani concrete metod haline getirmis olur.

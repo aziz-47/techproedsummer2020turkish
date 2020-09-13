@@ -8,7 +8,7 @@ public class Arrays01 {
 		int arr1[] = new int [5];
 		System.out.println(arr1);
 		
-		//System.out.println(arr1);==> Array'in reference'ini ekrana yazdirir
+		        //System.out.println(arr1);==> Array'in reference'ini ekrana yazdirir
 				//System.out.println(arr1[2]);==> Array'in index'i 2 olan elemanini ekrana yazdirir	
 				System.out.println(arr1[0]);
 				System.out.println(arr1[3]);

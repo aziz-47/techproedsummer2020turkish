@@ -23,7 +23,7 @@ public class MethodCreation03 {
 
 	}
 	
-public static void hesapMakinasi(char islem, double num1, double num2) {
+      public static void hesapMakinasi(char islem, double num1, double num2) {
 		
 		switch(islem) {
 		
